@@ -33,11 +33,11 @@ A continuación se anexa el PDF que contiene la documentación del código:
 
 Para desarrollar el prototipo del sistema diseñado se utilizó OpenPLC haciendo uso de lógica Ladder para correr el programa en un dispositivo Arduino Mega, el cual recibe datos de 3 sensores 
 
-La lógica del proceso está representada en el siguiente documento y extracto del código en OpenPLC
+La lógica del proceso está representada en el siguiente documento y extracto del código en OpenPLC: 
 [Documentación OpenPLC](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11205637/paracialauto2OPLC.pdf)
 
 
-Acta de reunion
+#Acta de reunion
 
 5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
 6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
