@@ -36,7 +36,7 @@ Para desarrollar el prototipo del sistema diseñado se utilizó OpenPLC haciendo
 La lógica del proceso está representada en el siguiente documento y extracto del código en OpenPLC: 
 [Documentación OpenPLC](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11205637/paracialauto2OPLC.pdf)
 
-´´´
+```
 NETWORK
 (* Paso positivo *)
     LD timer.IN := NOT timer.Q;
@@ -53,7 +53,7 @@ NETWORK
     OUT motor := LD timer.Q;
     TON timer(PT := T#2S);
 END_NETWORK
-´´´
+```
 
 #Acta de reunion
 
