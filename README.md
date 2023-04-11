@@ -1,4 +1,5 @@
-# 2do-Parcial-Automatización
+# 2do Parcial Automatización
+ ### Nicolas Nisperuza Latorre (174158)- Miguel Angel Fandiño Castro (199412) - Santiago Andrés Romero Ramírez (200961)
  
 # Simulación
 
@@ -55,7 +56,7 @@ NETWORK
 END_NETWORK
 ```
 
-#Acta de reunion
+# Acta de reunion
 
 5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
 6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
