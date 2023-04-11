@@ -19,19 +19,30 @@ La secuencialidad del proceso está representado en el siguiente diagrama:
 
 ## Desarrollo Simulación
 
-Para la simulación del proceso se utilizó el programa CODESYS, en este se utilizó lenguaje Ladder para realizar una aproximación de proceso controlado por tiempo
-## Implementación del proceso automatizado
+Para la simulación del proceso se utilizó el programa CODESYS, en este se utilizó lenguaje Ladder para realizar una aproximación de proceso controlado por tiempo simulando la entrada y reconocimiento de una naranja de tamaño y color deseado cada 3 segundos y la duración del movimiento de esta desde su entrada hasta que es contada de 6 segundos. El movimiento de la banda de cajas esta dado por 3 segundos donde se despacha una caja e ingresa una nueva caja hasta estar en el punto indicado. 
 
-Prototipo
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62396718/231307768-92ebf427-f7a2-42e4-acb7-26e7e1d882c6.gif)
 
-Diseño
 
-Desarrollo 
+A continuación se anexa el PDF que contiene la documentación del código:
 
-Implementación del proceso automatizado
+[Documentación CODESYS Parcial 2](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11205480/Parcial.2.Auto.pdf)
+
+
+# Implementación del prototipo para el proceso automatizado
+
+Para desarrollar el prototipo del sistema diseñado se utilizó OpenPLC haciendo uso de lógica Ladder para correr el programa en un dispositivo Arduino Mega, el cual recibe datos de 3 sensores 
+
+La lógica del proceso está representada en el siguiente documento y extracto del código en OpenPLC
+[Documentación OpenPLC](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11205637/paracialauto2OPLC.pdf)
+
 
 Acta de reunion
 
 5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
 6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
+7/04/2023: Se termina de desarrollar el código en CODESYS, se inicia con el HMI
+8/04/2023: Se desarrolla código OpenPLC para iniciar prototipado físico, se comienza el montaje de la estructura del sistema
+10/04/2023: Se continua el montaje del sistema e inicia el cableado del sistema
+11/04/2023: Se culmina el montaje y cableado del sistema. Se realiza la Wiki del parcial.
 
