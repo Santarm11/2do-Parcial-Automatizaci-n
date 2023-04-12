@@ -40,10 +40,122 @@ La lógica del proceso está representada en el siguiente documento y extracto d
 
 # Acta de reunion
 
-- 5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
-- 6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
-- 7/04/2023: Se termina de desarrollar el código en CODESYS, se inicia con el HMI
-- 8/04/2023: Se desarrolla código OpenPLC para iniciar prototipado físico, se comienza el montaje de la estructura del sistema
-- 10/04/2023: Se continua el montaje del sistema e inicia el cableado del sistema
-- 11/04/2023: Se culmina el montaje y cableado del sistema. Se realiza la Wiki del parcial.
+- Fecha: 5/04/2023
+
+   Hora de inicio: 3:00 PM
+
+   Hora de finalización: 5:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+
+   Temas tratados:
+
+   Lectura del enunciado del proyecto
+
+   Revisión de la rúbrica que se tendrá en cuenta para la evaluación
+
+   Acuerdos:
+
+   Se definió un diseño preliminar para la solución del parcial
+
+- Fecha: 6/04/2023
+   Hora de inicio: 3:00 PM
+   Hora de finalización: 7:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+
+   Temas tratados:
+
+   Inicio del desarrollo del código en CODESYS
+
+   Acuerdos:
+
+   Se define el diseño final para el proceso.
+   El código se realizará en el computador de Santiago Andrés Romero Ramírez. 
+
+- Fecha: 7/04/2023
+   Hora de inicio: 3:00 PM
+   Hora de finalización: 7:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+
+   Temas tratados:
+
+   Finalización del desarrollo del código en CODESYS
+   Inicio del desarrollo del HMI
+
+   Acuerdos:
+
+   Se definen las etiquetas para la documentación del código
+
+
+- Fecha: 8/04/2023
+   Hora de inicio: 1:00 PM
+   Hora de finalización: 6:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+   
+   Temas tratados:
+
+   Desarrollo del código OpenPLC para el prototipado físico
+   Inicio del montaje de la estructura del sistema
+   
+   Acuerdos:
+
+   Se definen aspectos de diseño para el montaje físico
+   
+   
+- Fecha: 10/04/2023
+   Hora de inicio: 6:00 PM
+   Hora de finalización: 11:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+   
+   Temas tratados:
+
+   Continuación del montaje del sistema
+   Inicio del cableado del sistema
+   
+   
+- Fecha: 11/04/2023
+   Hora de inicio: 4:00 PM
+   Hora de finalización: 12:00 PM
+
+   Asistentes:
+
+   Nicolas Nisperuza Latorre - Miguel Angel Fandiño Castro  - Santiago Andrés Romero Ramírez 
+   
+   Temas tratados:
+
+   Culminación del montaje y cableado del sistema
+   Realización de la Wiki del parcial
+   
+   Acuerdos:
+
+   Se encontraron dificultades a la hora de conectar todos los sensores requeridos por el diseño, se presenta problemas por corte de energía
+   
+   Acciones a seguir:
+
+   Se buscan alternativas para asegurar el correcto funcionamiento para la presentación
+   
+# Evaluación de roles
+
+Durante la realización del proyecto, se evaluó el desempeño de los siguientes roles:
+
+- Diseño del sistema:Nicolas Nisperuza Latorre, Miguel Angel Fandiño Castro y Santiago Andrés Romero Ramírez 
+- Desarrollador CODESYS/HMI y preparación de documentos: Santiago Andrés Romero Ramírez 
+- Desarrollador OpenPLC: Miguel Angel Fandiño Castro
+- Desarrolladores Prototipo: Miguel Angel Fandiño Castro y Nicolas Nisperuza Latorre 
+ 
+Basandose en la comunicación, la colaboración, iniciativa y responsabilidad, todos los roles se desempeñaron de manera efectiva y sin ningún problema. El principal problema que se presentó durante el desarrollo esta relacionado al cumplimiento del desarrollo del prototipo funcional, el cual no pudo cumplir con todos los requerimientos propuestos durante el diseño.
 
