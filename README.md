@@ -14,7 +14,7 @@ Las variables del sistema se plantearon de la siguiente manera:
 El sistema contará entonces con 4 entradas de sensor que determinarán el comportamiento de 3 actuadores (motores) para el funcionamiento del proceso.
 
 La secuencialidad del proceso está representado en el siguiente diagrama: 
-<br />
+
 ![Diagrama en blanco (3)](https://user-images.githubusercontent.com/62396718/231302773-d1837249-9870-4fdd-a01f-57fd3283230a.png)
 
 
@@ -58,10 +58,10 @@ END_NETWORK
 
 # Acta de reunion
 
-5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
-6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
-7/04/2023: Se termina de desarrollar el código en CODESYS, se inicia con el HMI
-8/04/2023: Se desarrolla código OpenPLC para iniciar prototipado físico, se comienza el montaje de la estructura del sistema
-10/04/2023: Se continua el montaje del sistema e inicia el cableado del sistema
-11/04/2023: Se culmina el montaje y cableado del sistema. Se realiza la Wiki del parcial.
+-5/04/2023: Nos reunimos para hacer una lectura del enunciado y de la rúbrica que se tendrá en cuenta
+-6/04/2023: Nos reunimos para iniciar con el desarrollo del código en CODESYS
+-7/04/2023: Se termina de desarrollar el código en CODESYS, se inicia con el HMI
+-8/04/2023: Se desarrolla código OpenPLC para iniciar prototipado físico, se comienza el montaje de la estructura del sistema
+-10/04/2023: Se continua el montaje del sistema e inicia el cableado del sistema
+-11/04/2023: Se culmina el montaje y cableado del sistema. Se realiza la Wiki del parcial.
 
