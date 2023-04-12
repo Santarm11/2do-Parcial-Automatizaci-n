@@ -32,10 +32,21 @@ A continuación se anexa el PDF que contiene la documentación del código:
 
 # Implementación del prototipo para el proceso automatizado
 
-Para desarrollar el prototipo del sistema diseñado se utilizó OpenPLC haciendo uso de lógica Ladder para correr el programa en un dispositivo Arduino, el cual recibe datos de 3 sensores de obstalaculo reflectivo infrarrojo FC-51 para presencia de cajas, conteo de naranjas y identificación de tamaño.
+Para desarrollar el prototipo del sistema diseñado se utilizó OpenPLC haciendo uso de lógica Ladder para correr el programa en un dispositivo Arduino, el cual recibe datos de 2 sensores de obstalaculo reflectivo infrarrojo FC-51 para presencia de cajas y conteo de naranjas 
 
 La lógica del proceso está representada en el siguiente documento del código en OpenPLC: 
-[Documentación OpenPLC](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11205637/paracialauto2OPLC.pdf)
+
+[Documentación OpenPLC](https://github.com/Santarm11/2do-Parcial-Automatizaci-n/files/11212838/autooo.pdf)
+
+Y se realizó la conexión física de la siguiente manera en el Arduino Uno:
+
+![14289faf-1ce1-4ba3-95eb-1099713ebd27](https://user-images.githubusercontent.com/62396718/231499591-10d6c151-7704-4ff1-b912-b78b9a0d7ee8.jpeg)
+
+
+Video del montaje físico:
+
+https://user-images.githubusercontent.com/62396718/231503850-e345eb33-1fcf-4f48-8ebf-98ed703cf4e6.mp4
+
 
 
 # Acta de reunion
